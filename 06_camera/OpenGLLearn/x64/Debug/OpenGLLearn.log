@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OpenGLLearn.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Render.cpp
+  GLM: Using GLM_FORCE_CXX11 but there is no known version of Visual C++ compiler that fully supports C++11
+e:\github\learnopengl\06_camera\opengllearn\render.cpp(190): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\github\learnopengl\06_camera\opengllearn\render.cpp(191): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+  OpenGLLearn.vcxproj -> E:\github\learnOpengl\06_camera\x64\Debug\texture.exe
+  OpenGLLearn.vcxproj -> E:\github\learnOpengl\06_camera\x64\Debug\texture.pdb (Full PDB)
