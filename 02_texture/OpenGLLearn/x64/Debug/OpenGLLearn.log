@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OpenGLLearn.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Render.cpp
+  OpenGLLearn.vcxproj -> E:\study\C++\vs\02纹理\x64\Debug\texture.exe
+  OpenGLLearn.vcxproj -> E:\study\C++\vs\02纹理\x64\Debug\texture.pdb (Full PDB)
